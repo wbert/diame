@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "140169806369",
+    "project_id": "dia-me-9013e",
+    "storage_bucket": "dia-me-9013e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140169806369:android:c6fa3140bed2f50db79960",
+        "android_client_info": {
+          "package_name": "com.example.diame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140169806369-54oujsju2n7cs9djse4jt8m9720ke3pg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQEW_BWThJmw07pfQTKm2f-SfF2aTGXQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140169806369-54oujsju2n7cs9djse4jt8m9720ke3pg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
